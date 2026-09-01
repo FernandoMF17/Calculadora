@@ -6,3 +6,8 @@ def resta(a,b):
 
 def multiplicacion(a,b):
     return a*b
+
+def division(a,b):
+    if b == 0:
+        return "no division entre 0"
+    return a/b
