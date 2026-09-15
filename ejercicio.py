@@ -6,3 +6,6 @@ def resta(a,b):
 
 def multiplicacion(a,b):
     return a*b
+
+def potencia(a, b):
+    return pow(a, b)
